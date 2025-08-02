@@ -8,13 +8,18 @@ This project simulates a real-world data pipeline where data is ingested, transf
 
 ## Objectives
 
-- Master data engineering workflows using Databricks.
-- Implement Delta Lake best practices (bronze, silver, gold architecture).
-- Use Spark Structured Streaming for real-time ingestion.
-- Build automated ETL pipelines with notebooks and workflows.
-- Schedule and monitor jobs in production-like environments.
-- Integrate data quality checks and logging.
-- Enable downstream analytics and reporting.
+
+Learning objectives
+
+- Learn how Databricks works end to end.
+- Understand the Delta Lake in Databricks.
+- Perform transformations in PySpark.
+- Use Spark SQL in Databricks.
+- Write DataFrames in PySpark.
+- Understand cluster management in Databricks.
+- Explore the Unity catalog in Databricks.
+
+
 
 ## Tech Stack
 
